@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+@import 'ag-grid-community/styles/ag-grid.css';
+/* Quartz Theme Specific CSS */
+@import 'ag-grid-community/styles/ag-theme-quartz.css';
+
+.green-row{
+    background-color: rgb(100, 150, 100) !important;
+}
+
+.red-row{
+    background-color: rgba(255, 0, 0, 0.444) !important;
+}
+
+.gold-row{
+    background-color: #edd90091 !important;
+}
+
+.eco-row{
+    background-color: #00aeed91 !important;
+}
